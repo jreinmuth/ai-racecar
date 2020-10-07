@@ -30,3 +30,6 @@ NVIDIA for developing Jetson Nano and providing all the software for setting up 
 masato-ka for [RL with jetracer](https://github.com/masato-ka/airc-rl-agent)
 
 Last but not least, all the other folks for developing great frameworks like pytorch etc.
+
+# License
+[MIT Licence](/LICENSE)
